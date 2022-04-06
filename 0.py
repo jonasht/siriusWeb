@@ -1,1 +1,1 @@
-print('hello world '*1000)
+print('ola mundo')
